@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Personal Toolbox (Current Projects)
 Here are some tools I’ve built to solve my own problems:
 
-* 🔗 **[🌱Garden Horizons Calculator]([Link](https://gardenhorizonscalculator.pro/))** – No one can resist the call of the fields 😻. This tool helps botanists predict exactly how many Shillings💰 they'll harvest before they even pick up a shovel.
+* 🔗 **[🌱Garden Horizons Calculator](https://gardenhorizonscalculator.pro/)** – No one can resist the call of the fields 😻. This tool helps botanists predict exactly how many Shillings💰 they'll harvest before they even pick up a shovel.
 
 
 ---
