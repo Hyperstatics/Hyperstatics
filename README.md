@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋 I'm Hyper~
 
 <!--
 **Hyperstatics/Hyperstatics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🚀 I'm a **Junior Developer** on a mission to turn "I wish I had a tool for this" into actual code. The best way to learn is by building tools I actually use every day.
+
+---
+
+## Personal Toolbox (Current Projects)
+Here are some tools I’ve built to solve my own problems:
+
+* 🔗 **[🌱Garden Horizons Calculator]([Link](https://gardenhorizonscalculator.pro/))** – No one can resist the call of the fields 😻. This tool helps botanists predict exactly how many Shillings💰 they'll harvest before they even pick up a shovel.
+
+
+---
+
+## Learning Journey
+Currently exploring the vast universe of:
+- **Languages:** JavaScript, Python, ...
+- **Frameworks:** React, Node.js, ...
+
+### 📊 GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Hyperstatics&show_icons=true&theme=tokyonight)
+
