@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🚀 I'm a **Junior Developer** on a mission to turn "I wish I had a tool for this" into actual code. The best way to learn is by building tools I actually use every day.
+🚀 I'm a **Junior Developer** on a mission to turn "I wish I had a tool for this" into actual code. The best way to learn is by building tools I actually use every day.
 
 ---
 
