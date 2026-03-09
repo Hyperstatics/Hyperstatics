@@ -30,7 +30,3 @@ Here are some tools I’ve built to solve my own problems:
 Currently exploring the vast universe of:
 - **Languages:** JavaScript, Python, ...
 - **Frameworks:** React, Node.js, ...
-
-### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Hyperstatics&show_icons=true&theme=tokyonight)
-
