@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 Here are some tools I’ve built to solve my own problems:
 
 * 🔗 **[🌱Garden Horizons Calculator](https://gardenhorizonscalculator.pro/)** – No one can resist the call of the fields 😻. This tool helps botanists predict exactly how many Shillings💰 they'll harvest before they even pick up a shovel.
+* 🔗 **[Your AI Slop bores me](https://youraislopboresme.run/)** - A roast for the low-effort AI slop. 😁 A clever game for anyone fed up with AI-generated filler. I’ve created a curated portal that frames the viral 'Your AI Slop Bores Me' game directly on my platform, bringing you the sharpest critique of AI culture without leaving our site.
 
 
 ---
