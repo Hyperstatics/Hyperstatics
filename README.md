@@ -1,19 +1,5 @@
 # Hi there 👋 I'm Hyper~
 
-<!--
-**Hyperstatics/Hyperstatics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🚀 I'm a **Junior Developer** on a mission to turn "I wish I had a tool for this" into actual code. The best way to learn is by building tools I actually use every day.
 
 ---
@@ -21,8 +7,8 @@ Here are some ideas to get you started:
 ## Personal Toolbox (Current Projects)
 Here are some tools I’ve built to solve my own problems:
 
-* 🔗 **[🌱Garden Horizons Calculator](https://gardenhorizonscalculator.pro/)** – No one can resist the call of the fields 😻. This tool helps botanists predict exactly how many Shillings💰 they'll harvest before they even pick up a shovel.
-* 🔗 **[Your AI Slop bores me](https://youraislopboresme.run/)** - A roast for the low-effort AI slop. 😁 A clever game for anyone fed up with AI-generated filler. I’ve created a curated portal that frames the viral 'Your AI Slop Bores Me' game directly on my platform, bringing you the sharpest critique of AI culture without leaving our site.
+* 🔗 
+* 🔗 
 
 
 ---
